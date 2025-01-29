@@ -1,0 +1,33 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    text-align: center;
+}
+
+#main-title {
+    color: #333;
+}
+
+#profile-pic {
+    border-radius: 10px;
+}
+
+.description {
+    font-size: 18px;
+    color: #555;
+}
+
+#navigation ul {
+    list-style: none;
+    padding: 0;
+}
+
+#navigation li {
+    display: inline;
+    margin: 10px;
+}
+
+#navigation a {
+    text-decoration: none;
+    color: #007BFF;
+}
